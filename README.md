@@ -1,1 +1,1 @@
-# Supervised-and-Unsupervised-Machine-Learning-for-Rock-Classification
+# Integrated-Rock-Classification-Using-Supervised-and-Unsupervised-Machine-Learning
